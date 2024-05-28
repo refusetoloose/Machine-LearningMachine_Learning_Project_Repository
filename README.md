@@ -94,8 +94,8 @@ In this activity, participants use the wheat seed dataset to group seeds into cl
 - Charytanowicz, M., Niewczas, J., Kulczycki, P., Kowalski, P. A., Lukasik, S., & Zak, S. (2010). A complete gradient clustering algorithm for features analysis of X-ray images. In Pietka, E. and Kawa, J. (Eds.), Information technologies in biomedicine, (pp. 15–24). Berlin: Springer-Verlag.
 - De Cock, D. (2011). Ames, Iowa: Alternative to the Boston housing data as an end of semester regression project. Journal of Statistics Education, 19(3). doi: 10.1080/10691898.2011.11889627
 
-Contributing
+## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-License
+## License
 Distributed under the MIT License. See LICENSE for more information.
